@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -1 | head
+find . -t1 | head
